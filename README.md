@@ -1,5 +1,5 @@
 # leetcode-anki-apkg
-All 3000+ Leetcode Questions and Answers in Anki Flashcards
+All *3000+* Leetcode Questions and Answers with code (Python only) in Anki Flashcards
 
 ### Usage
 1. Download `LeetcodeAll.apkg` file 
@@ -12,3 +12,9 @@ The Deck has tags and subtags for ease of creating custom deck. For example, to 
 Current Tags:
 * topic: Array, Hash Table, etc.
 * name: name of the problem in Leetcode
+
+
+### Upcoming Features
+* Fixing Latex Math in Solutions ($$)
+* Company tags
+* Removing non-python and no answer questions temporarily
