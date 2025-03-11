@@ -1,5 +1,5 @@
 # leetcode-anki-apkg
-All Leetcode Questions and Answers in Anki Flashcard style
+All 3000+ Leetcode Questions and Answers in Anki Flashcards
 
 ### Usage
 1. Download `LeetcodeAll.apkg` file 
